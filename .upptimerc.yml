@@ -4,13 +4,13 @@ repo: Upptime-AllBranches # The name of this repository
 
 sites:
   - name: DEV NANARD
-    url: https://www.dev-nanard.fr/
+    url: https://www.dev-nanard.fr
   - name: PORTFOLIO ÉTUDE DEV NANARD
-    url: https://www.wp.dev-nanard.fr/
+    url: https://www.wp.dev-nanard.fr
   - name: ENTREPRISE FERRER
-    url: https://www.travauxef.fr/
+    url: https://www.travauxef.fr
   - name: ATELIER PEINTURE FERRER
-    url: https://www.peinture.travauxef.fr/
+    url: https://www.peinture.travauxef.fr
     port: 80
     check: "tcp-ping"
     ipv6: true
