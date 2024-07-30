@@ -4,9 +4,9 @@
     "url": "https://www.dev-nanard.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.dev-nanard.fr.ico",
     "slug": "dev-nanard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1225,
     "timeMonth": 1191,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "PORTFOLIO ÉTUDE DEV NANARD",
     "url": "https://www.wp.dev-nanard.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.wp.dev-nanard.fr.ico",
     "slug": "portfolio-etude-dev-nanard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1854,
     "timeMonth": 1439,
     "timeYear": 1439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "ENTREPRISE FERRER",
@@ -59,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peinture.travauxef.fr.ico",
     "slug": "atelier-peinture-ferrer",
     "status": "up",
-    "uptime": "93.28%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "93.28%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "93.46%",
     "time": 1018,
     "timeDay": 793,
     "timeWeek": 1088,
