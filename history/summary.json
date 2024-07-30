@@ -44,9 +44,9 @@
     "url": "https://www.travauxef.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.travauxef.fr.ico",
     "slug": "entreprise-ferrer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,25 +55,28 @@
     "timeWeek": 1334,
     "timeMonth": 1212,
     "timeYear": 1212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "ATELIER PEINTURE FERRER",
     "url": "https://www.peinture.travauxef.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.peinture.travauxef.fr.ico",
     "slug": "atelier-peinture-ferrer",
-    "status": "up",
-    "uptime": "93.46%",
+    "status": "down",
+    "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "93.46%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "93.47%",
     "time": 1018,
     "timeDay": 793,
     "timeWeek": 1088,
     "timeMonth": 1018,
     "timeYear": 1018,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-08": 425,
       "2024-07-07": 1440,
       "2024-07-06": 391
